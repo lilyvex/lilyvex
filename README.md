@@ -16,7 +16,6 @@
 
 **[<kbd> <br> email <br> </kbd>](mailto:contact@lilyvex.dev)** 
 **[<kbd> <br> discord <br> </kbd>](https://discord.com/users/297490782397399040)** 
-**[<kbd> <br> website <br> </kbd>](https://lilyvex.dev)** 
 
 ---
 
