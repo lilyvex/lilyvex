@@ -10,16 +10,12 @@
 
 <div align="center">
 
-### Hi, I'm Lily. 
+### Hi, I'm Lily
 
----
+[[email](mailto:contact@lilyvex.dev)]
+[[discord](https://discord.com/users/297490782397399040)]
 
-**[<kbd> <br> email <br> </kbd>](mailto:contact@lilyvex.dev)** 
-**[<kbd> <br> discord <br> </kbd>](https://discord.com/users/297490782397399040)** 
-
----
-
-</div>
+</div><br/>
 
 <div align="center">
 <img src="https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white" alt="Rust"/>
