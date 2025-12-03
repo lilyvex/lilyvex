@@ -12,7 +12,7 @@
 
 ### Hi, I'm Lily
 
-[[email](mailto:contact@lilyvex.dev)]
+[[email](mailto:luxzi@pm.me)]
 [[discord](https://discord.com/users/297490782397399040)]
 
 </div><br/>
